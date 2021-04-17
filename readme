@@ -1,0 +1,22 @@
+TP le rond rouge intégration d'une page web responsive 
+en html et css/////////////////////////////////////////////////////////
+
+J'ai fait le choix d'utiliser sass pour mon css, j'ai donc du installer node.js sur mon  projet car j'avais besoin du module node-sass pour compiler le scss en css.
+
+Après l'avoir cloné avec les fonctions fournies par git, vous devrez lancer la fonction 'npm install'  en ligne de commande depuis votre terminal à l'endroit ou vous avez mis le repertoire pour télécharger les nodes_modules depuis le fichier package.json et les dépendances depuis package.lock.json. 
+(
+    si vous n'avez pas git,  node.js et npm il faut les installer d'abord sur votre pc
+  https://git-scm.com/downloads  
+  https://nodejs.org/en/
+
+ NB: node.js instale automatiquement npm qui est son package manager officiel
+    
+    ).
+
+Une fois tout ceci effectué vous n'avez plus qu'à lancer le script 'npm start' depuis votre terminal de commande et ainsi voir le site en localhost sur le port 4000
+
+
+Puisque j'ai utilisé node.js pour le scss, je me suis senti obligé de faire un peu de js quand même. Donc j'ai mis en place le menu mobile et les liens actifs en gris. C'était un peu compliqué vu que je n'ai que deux pages et plusieurs liens mais ça m'a bien amusé. 
+
+
+
